@@ -1,7 +1,24 @@
-# Vue 3 + Vite
+# Smart Home Starter Repository
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+An E-commerce platform for buying high quality Smart Home Appliances at extremely affordable Price.
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Live Link
+Hosted in Netlify -> [Smart Home](https://shome-shop.netlify.app/)
+
+## Context API
+
+Documentation Link -> [Link](https://reactjs.org/docs/context.html#api)
+
+## React Router Dom v6.4 
+Documentation Link -> [Link](https://reactrouter.com/en/main/start/overview)
+
+## Resources & Credits
+Tailwind Components -> 
+[Mamba UI](https://www.mambaui.com/)
+[Kitwind](https://kitwind.io/products/kometa/components)
+
+## Other Resources
+Icon -> [FlatIcon](https://www.flaticon.com/)
+Product Photos -> [Freepic](https://www.freepik.com/)
